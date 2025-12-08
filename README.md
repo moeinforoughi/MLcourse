@@ -1,5 +1,5 @@
 # MLcourse
-**DataTalksClub Zoomcamp** 
+**DataTalksClub Machine learning Zoomcamp** 
   * Notes
   * Materials
   * Traning
